@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @GereonV
-- 👀 I’m interested in App/Game-Development
-- 🌱 I’m currently learning C & ASM
+- 👋 Hi, I’m @GereonV from Germany
+- 🏫 Currently graduating high school
 - 📫 How to reach me: Discord TK36#5013
