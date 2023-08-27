@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @GereonV from Germany
-- 🏫 Currently graduating high school
+- 🏫 Currently studying computer science and becoming a dev at FZ-Jülich
 - 📫 How to reach me: Discord TK36#5013
